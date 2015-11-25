@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Picczle/ViewController.swift"
+            timestampString = "470128428.338329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Picczle.ViewController.__deallocating_deinit"
+                  moduleName = "Picczle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nick/RP/Picczle/Picczle/ViewController.swift"
+                  timestampString = "470128428.376033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Picczle.ViewController.init (Picczle.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Picczle.ViewController"
+                  moduleName = "Picczle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nick/RP/Picczle/Picczle/ViewController.swift"
+                  timestampString = "470128428.37875"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Picczle.ViewController.init (Picczle.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Picczle.ViewController&gt;"
+                  moduleName = "Picczle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nick/RP/Picczle/Picczle/ViewController.swift"
+                  timestampString = "470128428.378937"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
